@@ -1,4 +1,4 @@
-# Game of Life in C
+# Snake Game in C
 Simple game of snake in C with ncurses
 
 ## Quick start
